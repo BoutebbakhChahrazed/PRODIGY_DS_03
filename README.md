@@ -64,7 +64,4 @@ This project is created for educational purposes as part of the Prodigy InfoTech
 ---
 **Author:** [Boutebbakh Chahrazed]
 
-
-1. Clone the repository.
-2. Install the required dependencies:
  
