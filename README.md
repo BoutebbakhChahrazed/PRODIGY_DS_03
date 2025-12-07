@@ -60,6 +60,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## 📜 License
 This project is created for educational purposes as part of the Prodigy InfoTech Data Science Internship.
 
+
 ---
 **Author:** [Boutebbakh Chahrazed]
 
